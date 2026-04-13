@@ -37,26 +37,3 @@
 
 ---
 
-## 📌 **PROFESSIONAL SUMMARY**
-
-```python
-class MuhammadYasinKhan:
-    def __init__(self):
-        self.name = "Muhammad Yasin Khan"
-        self.location = "Swat, KPK, Pakistan"
-        self.education = "BS Artificial Intelligence (Undergraduate)"
-        self.university = "UEAS Swat"
-        self.role = "AI/ML Engineer | Data Scientist"
-        self.experience = "2.5+ years"
-        self.internships = 4
-        self.projects = 5
-        self.skills = ["Machine Learning", "Deep Learning", "Data Science", "NLP", "Computer Vision"]
-        
-    def objective(self):
-        return "Seeking internship/entry-level position in AI, ML & Data Science"
-    
-    def motto(self):
-        return "Turning Data into Impact | Building AI for Real World"
-    
-me = MuhammadYasinKhan()
-print(me.objective())
