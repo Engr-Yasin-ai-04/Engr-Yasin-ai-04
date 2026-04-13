@@ -9,7 +9,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=👁️+PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
 <img src="https://img.shields.io/badge/🔥_INTERNSHIPS-4-00ff00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/💼_EXPERIENCE-2.5+_YEARS-00ff00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/📁_PROJECTS-5+-00ff00?style=for-the-badge" />
