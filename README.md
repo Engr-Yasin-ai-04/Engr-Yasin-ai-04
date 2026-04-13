@@ -27,14 +27,14 @@
 
 **Muhammad Yasin Khan** from Swat, Pakistan 🇵🇰
 
-- 🎓 BS AI (Undergraduate) @ UEAS Swat
+- 🎓 BS Artificial Intelligence (Undergraduate) @ UEAS Swat
 - 💼 2.5+ years experience in AI/ML
 - 🔥 4 concurrent internships
 - 🎯 Open for internships, remote jobs, freelance
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
 | Position | Company | Duration |
 |----------|---------|----------|
@@ -46,19 +46,21 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 **Languages:** Python, Java
 
-**AI/ML:** ML, Deep Learning, Data Science, NLP, Computer Vision
+**AI/ML:** Machine Learning, Deep Learning, Data Science, NLP, Computer Vision
 
 **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV, YOLOv8
 
 **Web:** Django, HTML, CSS, JavaScript
 
+**Database:** MySQL, SQLite
+
 ---
 
-## 📁 Projects
+## 📁 Featured Projects
 
 - 🫁 **Pneumonia Detection** - Django + CNN + TensorFlow
 - 👤 **Face Detection** - YOLOv8 + OpenCV
@@ -82,18 +84,33 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="45%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="45%" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="45%" />
+
 ---
 
-## 📫 Contact
+## 🌐 Portfolio Website
+
+🔗 [https://YOUR_USERNAME.github.io](https://YOUR_USERNAME.github.io)
+
+---
+
+## 📫 Connect With Me
 
 - 📧 engr.yasin.ai@gmail.com
 - 📞 +92 328 8712547
 - 🔗 [LinkedIn](https://www.linkedin.com/in/engr-m-yasin-khan)
+- 📍 New Colony Matta, Swat, KPK, Pakistan
 
 ---
 
 <div align="center">
-  🚀 Open for internships, remote jobs, and collaborations!
   
-  ⭐ Star my repositories
+---
+
+**🚀 "Turning Data into Impact | Building AI for the Real World"**
+
+<br>
+
+⭐ *Star my repositories if you like my work!*
+
 </div>
