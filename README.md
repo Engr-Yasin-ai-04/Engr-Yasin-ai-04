@@ -1,27 +1,20 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=42&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&height=80&lines=MUHAMMAD+YASIN+KHAN;AI+%7C+ML+%7C+Deep+Learning;4x+Intern+%7C+2.5%2B+Years" />
+<h1>Muhammad Yasin Khan</h1>
+<h3>AI/ML Engineer | Data Scientist | AI Undergraduate</h3>
 
-<br>
-
-<h1>👋 Muhammad Yasin Khan</h1>
-<h3>⚡ AI/ML Engineer | Data Scientist</h3>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=4+Internships;2.5%2B+Years+Experience;Open+To+Work" />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/engr-m-yasin-khan">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:engr.yasin.ai@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://wa.me/923288712547">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <br><br>
@@ -32,20 +25,52 @@
 
 ---
 
-### 🎯 Objective
+### Experience
 
-> AI undergraduate with **4 internships** & **2.5+ years experience** seeking opportunities in AI/ML.
-
----
-
-### 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| ML Intern | Internee.pk | Feb 2026 - Now |
-| AI/ML Intern | DevelopersHub | Feb 2026 - Now |
+| Position | Company | Duration |
+|----------|---------|----------|
+| Machine Learning Intern | Internee.pk | Feb 2026 - Present |
+| AI/ML Engineering Intern | DevelopersHub | Feb 2026 - Present |
 | Data Science Intern | Arch Technologies | Feb 2026 |
 | AI Intern | NCAI Pakistan | Jan 2026 - Feb 2026 |
 | AI Engineer | UEAS Swat | Oct 2023 - Jan 2026 |
 
 ---
+
+### Skills
+
+**Python, Java, TensorFlow, PyTorch, OpenCV, YOLOv8, Django, MySQL, Git**
+
+---
+
+### Projects
+
+- **Pneumonia Detection** - Django + CNN
+- **Face Detection** - YOLOv8 + OpenCV
+- **ML Projects** - Scikit-learn, Pandas
+
+---
+
+### Education
+
+**BS Artificial Intelligence** - UEAS Swat (2023-Present)
+
+---
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" width="45%" />
+
+---
+
+### Contact
+
+📧 engr.yasin.ai@gmail.com  
+🔗 linkedin.com/in/engr-m-yasin-khan
+
+---
+
+<div align="center">
+⭐ Open for internships & remote jobs ⭐
+</div>
